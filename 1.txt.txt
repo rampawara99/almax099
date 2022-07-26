@@ -1,0 +1,63 @@
+IT domain related Project the majority involved is coding - 
+manging the Source code
+
+# Project Management in IT Domain means Managing the Source Code.
+
+Source Code Management - It is a tool or a software that can be used to manage 
+the source code.
+
+1 Notebook => 27 Students are present -> can you write your name 
+in this notebook at the same time ??
+
+1 Code base (Code available at a single location) => 27 s/w engineers ->
+
+Sharing the code among the team members was very difficult. 
+Unable to maintain a standard format.
+Issues was raised while merging the different code 
+Time was wasted/ Resource was wasted.
+
+#SCM is also called as VCS - Version Control System
+
+One of the SCM/VCS tool is called as GIT
+
+2 Categories of VCS
+	1. Centralised VCS / Non Distributed VCS
+		-> The Storage of the code is centralised
+		-> Backup is Mandatory
+		Eg: SVN - Sub Version
+
+	2. Decentralised VCS / Distributed VCS
+		-> The storage is distributed. multiple copy's are created.
+		-> Backup is not mondary
+
+GIT - Global Information Tracker
+It is a VCS software
+It is a 3red generation SCM tool
+
+In Git there are 2 different types 
+1. local Git
+	When you install the git software in your personal machine.
+	Eg: your own system
+2. Remote Git 
+	When you install the git software on some remote
+	machine/server/Vitual machine/Cloud/ etc...
+	Eg: GitHub, GitLab, BitBucket, CodeCommit, Azure Git, etc...
+
+
+Setting up a Github account
+Installing and configuring Git 
+	https://git-scm.com/
+	Download the file
+	Double click the downloaded file
+	Do not change any settings or do not enter anything 
+	Keep the default settings & 
+	Simple keep on selecting Next, Next,.......
+	Finally click on Install !!!!!!
+
+
+
+
+
+
+
+	
