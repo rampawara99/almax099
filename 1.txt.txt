@@ -52,7 +52,7 @@ Installing and configuring Git
 	Do not change any settings or do not enter anything 
 	Keep the default settings & 
 	Simple keep on selecting Next, Next,.......
-	Finally click on Install !!!!!!
+	Finally click on Install !!!!
 
 
 
